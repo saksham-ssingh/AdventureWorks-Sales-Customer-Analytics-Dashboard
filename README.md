@@ -41,7 +41,7 @@ This dashboard was developed to provide a centralized analytical solution for bu
 
 Provides a high-level overview of:
 
-  a. Revenue KPIs
+  * Revenue KPIs
   b. Orders and returns
   c. Monthly sales trends
   d. Category-wise performance
