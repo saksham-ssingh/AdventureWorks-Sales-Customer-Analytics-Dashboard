@@ -65,11 +65,11 @@ Business Value: Helps product and sales teams identify top-performing products a
 
 Provides insights into:
 
-a.Customer purchasing behavior
-b. Revenue contribution by customers
-c. Order patterns
-d. Customer segmentation
-e. Customer-level performance trends
+* Customer purchasing behavior
+*  Revenue contribution by customers
+*  Order patterns
+*  Customer segmentation
+*  Customer-level performance trends
 
 Business Value: Supports customer retention strategies and helps businesses identify valuable customer segments.
 
@@ -77,9 +77,9 @@ Business Value: Supports customer retention strategies and helps businesses iden
 
 Visualizes:
 
-a. Regional sales performance
-b. Geographic distribution of revenue
-c. Location-based sales insights
+* Regional sales performance
+* Geographic distribution of revenue
+* Location-based sales insights
 
 Business Value: Helps management identify strong and weak performing regions for market expansion and operational planning.
 
