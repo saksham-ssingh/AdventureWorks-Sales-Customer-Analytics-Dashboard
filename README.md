@@ -37,7 +37,7 @@ This dashboard was developed to provide a centralized analytical solution for bu
 
 # Dashboard Features
 
-1. Executive Dashboard
+## 1. Executive Dashboard
 
 Provides a high-level overview of:
 
@@ -49,7 +49,7 @@ Provides a high-level overview of:
 
 Business Value: Helps executives and management teams quickly monitor business performance and make strategic decisions.
 
-2. Product Detail Dashboard
+## 2. Product Detail Dashboard
 
 Analyzes:
 
@@ -61,7 +61,7 @@ Analyzes:
 
 Business Value: Helps product and sales teams identify top-performing products and optimize inventory and sales strategies.
 
-3. Customer Detail Dashboard
+## 3. Customer Detail Dashboard
 
 Provides insights into:
 
@@ -73,7 +73,7 @@ Provides insights into:
 
 Business Value: Supports customer retention strategies and helps businesses identify valuable customer segments.
 
-4. Geographic/Map Dashboard
+## 4. Geographic/Map Dashboard
 
 Visualizes:
 
@@ -95,14 +95,14 @@ Business Value: Helps management identify strong and weak performing regions for
 
 # Technical Skills Demonstrated
 
-Data Analysis
+## Data Analysis
 
 1. Business KPI analysis
 2. Trend analysis
 3. Performance comparison
 4. Customer analytics
 
-Power BI Skills
+## Power BI Skills
 
 1. Data modeling
 2. DAX calculations
@@ -113,7 +113,7 @@ Power BI Skills
 7. Slicers and filters
 8. Data visualization
 
-Business Analyst Skills
+## Business Analyst Skills
 
 1. Stakeholder-focused reporting
 2. Business insight generation
@@ -121,7 +121,7 @@ Business Analyst Skills
 4. Analytical thinking
 5. Decision-support dashboarding
 
-Insights Generated
+## Insights Generated
 
 1. Identified revenue growth trends across months
 2. Compared regional business performance
