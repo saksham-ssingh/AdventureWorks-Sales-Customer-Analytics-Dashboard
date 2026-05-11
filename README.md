@@ -42,10 +42,10 @@ This dashboard was developed to provide a centralized analytical solution for bu
 Provides a high-level overview of:
 
   * Revenue KPIs
-  b. Orders and returns
-  c. Monthly sales trends
-  d. Category-wise performance
-  e. Overall business growth
+  * Orders and returns
+  * Monthly sales trends
+  * Category-wise performance
+  * Overall business growth
 
 Business Value: Helps executives and management teams quickly monitor business performance and make strategic decisions.
 
@@ -53,11 +53,11 @@ Business Value: Helps executives and management teams quickly monitor business p
 
 Analyzes:
 
-   a. Product-level performance
-   b. Sales contribution
-   c. Product trends
-   d. KPI comparisons
-   e. Target achievement
+   * Product-level performance
+   * Sales contribution
+   * Product trends
+   * KPI comparisons
+   * Target achievement
 
 Business Value: Helps product and sales teams identify top-performing products and optimize inventory and sales strategies.
 
